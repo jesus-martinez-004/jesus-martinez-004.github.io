@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "name": "API RESTful con NestJS",
+    "description": "API escalable para gestión de usuarios con autenticación JWT, validaciones y documentación Swagger.",
+    "stack": [
+      "NestJS",
+      "TypeScript",
+      "PostgreSQL",
+      "JWT"
+    ],
+    "urlGitHub": "https://github.com/",
+    "urlDemo": "https://www.demo.com"
+  },
+  {
+    "id": 2,
+    "name": "Sistema de Autenticación",
+    "description": "Sistema completo de registro, login y recuperación de contraseña con buenas prácticas de seguridad.",
+    "stack": [
+      "Express",
+      "Node.js",
+      "MongoDB",
+      "bcrypt"
+    ],
+    "urlGitHub": "https://github.com/",
+    "urlDemo": null
+  },
+  {
+    "id": 3,
+    "name": "Base de Datos Optimizada",
+    "description": "Diseño e implementación de base de datos normalizada con índices y consultas optimizadas.",
+    "stack": [
+      "PostgreSQL",
+      "SQL Server",
+      "SQL"
+    ],
+    "urlGitHub": "https://github.com/",
+    "urlDemo": null
+  }
+]
