@@ -9,8 +9,16 @@
       "PostgreSQL",
       "JWT"
     ],
-    "urlGitHub": "https://github.com/",
-    "urlDemo": "https://www.demo.com"
+    "programmingLanguage": [
+      "TypeScript",
+      "NestJS",
+      "PostgreSQL"
+    ],
+    "urlGitHub": "https://github.com/jesus-martinez-004/api-nestjs",
+    "repositoryUrl": "https://github.com/jesus-martinez-004/api-nestjs",
+    "urlDemo": "https://www.demo.com",
+    "thumbnail": "https://www.tusitio.com/images/nestjs-api.png",
+    "datePublished": "2024-10-01"
   },
   {
     "id": 2,
@@ -22,8 +30,16 @@
       "MongoDB",
       "bcrypt"
     ],
-    "urlGitHub": "https://github.com/",
-    "urlDemo": null
+    "programmingLanguage": [
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "urlGitHub": "https://github.com/jesus-martinez-004/auth-system",
+    "repositoryUrl": "https://github.com/jesus-martinez-004/auth-system",
+    "urlDemo": null,
+    "thumbnail": "https://www.tusitio.com/images/auth-system.png",
+    "datePublished": "2024-09-15"
   },
   {
     "id": 3,
@@ -34,7 +50,15 @@
       "SQL Server",
       "SQL"
     ],
-    "urlGitHub": "https://github.com/",
-    "urlDemo": null
+    "programmingLanguage": [
+      "PostgreSQL",
+      "SQL Server",
+      "SQL"
+    ],
+    "urlGitHub": "https://github.com/jesus-martinez-004/optimized-database",
+    "repositoryUrl": "https://github.com/jesus-martinez-004/optimized-database",
+    "urlDemo": null,
+    "thumbnail": "https://www.tusitio.com/images/optimized-db.png",
+    "datePublished": "2024-08-20"
   }
 ]
