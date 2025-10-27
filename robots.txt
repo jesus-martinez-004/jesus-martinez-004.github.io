@@ -1,15 +1,8 @@
-# robots.txt para jesus-martinez-004.github.io
-# Permitir indexación completa y acceso a todos los recursos
-
 User-agent: *
 Allow: /
-
-# Bloquear carpetas internas del build o dependencias (si las tienes)
 Disallow: /node_modules/
 Disallow: /dist/
 Disallow: /build/
-
-# Indicar el sitemap (para mejor rastreo e indexación)
 Sitemap: https://jesus-martinez-004.github.io/sitemap.xml
 
 # Información del autor

@@ -18,7 +18,6 @@
   <!-- Sitemap -->
   <link rel="sitemap" type="application/xml" title="Sitemap" href="data:text/xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjx1cmxzZXQgeG1sbnM9Imh0dHBzOi8vd3d3LnNpdGVtYXBzLm9yZy9zY2hlbWFzL3NpdGVtYXAvMC45Ij4NCiAgPHVybD4NCiAgICA8bG9jPmh0dHBzOi8vamVzdXMtbWFydGluZXotMDA0LmdpdGh1Yi5pby88L2xvYz4NCiAgICA8bGFzdG1vZD4yMDI1LTEwLTI3PC9sYXN0bW9kPg0KICAgIDxwcmlvcml0eT4xLjA8L3ByaW9yaXR5Pg0KICA8L3VybD4NCjwvdXJsc2V0Pg0K" />
 
-
   <!-- METAS ESENCIALES -->
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -41,12 +40,20 @@
   <!-- FAVICON -->
   <link rel="icon" type="image/svg+xml" href="/vite.svg" />
 
-  <!-- PRECONEXIONES Y FUENTES -->
+  <!-- PRECONEXIONES Y FUENTES OPTIMIZADAS -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preload"
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap"
+    as="style">
   <link
     href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap"
-    rel="stylesheet" />
+    rel="stylesheet" media="all" onload="this.onload=null;this.removeAttribute('media')">
+  <noscript>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap"
+      rel="stylesheet">
+  </noscript>
 
   <!-- OPEN GRAPH -->
   <meta property="og:title" content="Jesús Daniel Martínez Pérez - Backend Developer" />
@@ -98,11 +105,14 @@
 
 <body>
   <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TSTS6F7B" height="0" width="0"
-      style="display:none;visibility:hidden"></iframe></noscript>
+  <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TSTS6F7B" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe>
+  </noscript>
   <!-- End Google Tag Manager (noscript) -->
 
   <div id="root"></div>
+  <!-- Script principal diferido -->
 </body>
 
 </html>
