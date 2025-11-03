@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /node_modules/
+Disallow: /dist/
+Disallow: /build/
+Sitemap: https://jesus-martinez-004.github.io/sitemap.xml
+
+# Información del autor
+# Jesús Daniel Martínez Pérez - Backend Developer

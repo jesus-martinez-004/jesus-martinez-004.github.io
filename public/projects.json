@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "name": "API RESTful con NestJS",
+    "description": "API escalable para gestión de usuarios con autenticación JWT, validaciones y documentación Swagger.",
+    "stack": [
+      "NestJS",
+      "TypeScript",
+      "PostgreSQL",
+      "JWT"
+    ],
+    "programmingLanguage": [
+      "TypeScript",
+      "NestJS",
+      "PostgreSQL"
+    ],
+    "urlGitHub": "https://github.com/jesus-martinez-004/api-nestjs",
+    "repositoryUrl": "https://github.com/jesus-martinez-004/api-nestjs",
+    "urlDemo": "https://www.demo.com",
+    "thumbnail": "https://www.tusitio.com/images/nestjs-api.png",
+    "datePublished": "2024-10-01"
+  },
+  {
+    "id": 2,
+    "name": "Sistema de Autenticación",
+    "description": "Sistema completo de registro, login y recuperación de contraseña con buenas prácticas de seguridad.",
+    "stack": [
+      "Express",
+      "Node.js",
+      "MongoDB",
+      "bcrypt"
+    ],
+    "programmingLanguage": [
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "urlGitHub": "https://github.com/jesus-martinez-004/auth-system",
+    "repositoryUrl": "https://github.com/jesus-martinez-004/auth-system",
+    "urlDemo": null,
+    "thumbnail": "https://www.tusitio.com/images/auth-system.png",
+    "datePublished": "2024-09-15"
+  },
+  {
+    "id": 3,
+    "name": "Base de Datos Optimizada",
+    "description": "Diseño e implementación de base de datos normalizada con índices y consultas optimizadas.",
+    "stack": [
+      "PostgreSQL",
+      "SQL Server",
+      "SQL"
+    ],
+    "programmingLanguage": [
+      "PostgreSQL",
+      "SQL Server",
+      "SQL"
+    ],
+    "urlGitHub": "https://github.com/jesus-martinez-004/optimized-database",
+    "repositoryUrl": "https://github.com/jesus-martinez-004/optimized-database",
+    "urlDemo": null,
+    "thumbnail": "https://www.tusitio.com/images/optimized-db.png",
+    "datePublished": "2024-08-20"
+  }
+]
