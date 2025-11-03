@@ -48,7 +48,7 @@ function App() {
           onClick={() => setDarkMode(!darkMode)}
           className="fixed top-4 right-4 px-4 py-2 bg-gray-200 dark:bg-gray-800 rounded shadow"
         >
-          {darkMode ? '☀️ Claro' : '🌙 Oscuro'}
+          {darkMode ? 'Claro' : 'Oscuro'}
         </button>
 
         <section id="projects" aria-labelledby="projects-title">
