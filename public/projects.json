@@ -18,46 +18,5 @@
     "urlDemo": "https://rapidapi.com/jesusmartinez70717-9Q05FjWQL6U/api/filmflow2",
     "thumbnail": "https://gitlab.com/jesusmartinez70717/portfolio-web/-/raw/main/public/thumbail-filmflow_api.png",
     "datePublished": "2026-03-14"
-  },  
-  {
-    "id": 2,
-    "name": "Sistema de Autenticación",
-    "description": "Sistema completo de registro, login y recuperación de contraseña con buenas prácticas de seguridad.",
-    "stack": [
-      "Express",
-      "Node.js",
-      "MongoDB",
-      "bcrypt"
-    ],
-    "programmingLanguage": [
-      "Node.js",
-      "Express",
-      "MongoDB"
-    ],
-    "urlGitHub": "https://github.com/jesus-martinez-004/auth-system",
-    "repositoryUrl": "https://github.com/jesus-martinez-004/auth-system",
-    "urlDemo": null,
-    "thumbnail": "https://www.tusitio.com/images/auth-system.png",
-    "datePublished": "2024-09-15"
-  },
-  {
-    "id": 3,
-    "name": "Base de Datos Optimizada",
-    "description": "Diseño e implementación de base de datos normalizada con índices y consultas optimizadas.",
-    "stack": [
-      "PostgreSQL",
-      "SQL Server",
-      "SQL"
-    ],
-    "programmingLanguage": [
-      "PostgreSQL",
-      "SQL Server",
-      "SQL"
-    ],
-    "urlGitHub": "https://github.com/jesus-martinez-004/optimized-database",
-    "repositoryUrl": "https://github.com/jesus-martinez-004/optimized-database",
-    "urlDemo": null,
-    "thumbnail": "https://www.tusitio.com/images/optimized-db.png",
-    "datePublished": "2024-08-20"
   }
 ]
