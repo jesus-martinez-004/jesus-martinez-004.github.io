@@ -1,25 +1,24 @@
 [
   {
-    "id": 1,
-    "name": "API RESTful con NestJS",
-    "description": "API escalable para gestión de usuarios con autenticación JWT, validaciones y documentación Swagger.",
+    "id": 2,
+    "name": "FilmFlow API",
+    "description": "API RESTful de entretenimiento que ofrece acceso a miles de películas, series y anime con información detallada, recomendaciones inteligentes y soporte para streaming.",
     "stack": [
-      "NestJS",
+      "Node.js",
+      "Express",
       "TypeScript",
       "PostgreSQL",
-      "JWT"
+      "Redis",
+      "Axios"
     ],
     "programmingLanguage": [
-      "TypeScript",
-      "NestJS",
-      "PostgreSQL"
+      "JavaScript",
+      "TypeScript"
     ],
-    "urlGitHub": "https://github.com/jesus-martinez-004/api-nestjs",
-    "repositoryUrl": "https://github.com/jesus-martinez-004/api-nestjs",
-    "urlDemo": "https://www.demo.com",
-    "thumbnail": "https://www.tusitio.com/images/nestjs-api.png",
-    "datePublished": "2024-10-01"
-  },
+    "urlDemo": "https://rapidapi.com/jesusmartinez70717-9Q05FjWQL6U/api/filmflow2",
+    "thumbnail": "https://gitlab.com/jesusmartinez70717/portfolio-web/-/raw/main/public/thumbail-filmflow_api.png",
+    "datePublished": "2026-03-14"
+  },  
   {
     "id": 2,
     "name": "Sistema de Autenticación",
