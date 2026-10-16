@@ -18,5 +18,23 @@
     "urlDemo": "https://rapidapi.com/jesusmartinez70717-9Q05FjWQL6U/api/filmflow2",
     "thumbnail": "https://gitlab.com/jesusmartinez70717/portfolio-web/-/raw/main/public/thumbail-filmflow_api.png",
     "datePublished": "2026-03-14"
+  },
+  {
+    "id": 2,
+    "name": "FilmFlow",
+    "description": "Plataforma web de entretenimiento para explorar películas, series y anime. Incluye catálogos organizados por categorías y géneros, búsqueda de contenido y acceso a información detallada para facilitar el descubrimiento de nuevos títulos.",
+    "stack": [
+      "Next.js",
+      "React",
+      "Tailwind CSS",
+      "FilmFlow API"
+    ],
+    "programmingLanguage": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "urlDemo": "https://www.filmflow.qzz.io/",
+    "thumbnail": "https://gitlab.com/jesusmartinez70717/portfolio-web/-/raw/main/public/thumbnail-filmflow.png",
+    "datePublished": "2026-10-15"
   }
 ]
