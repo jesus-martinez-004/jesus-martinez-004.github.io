@@ -9,7 +9,6 @@ import Footer from './components/Footer';
 function App() {
   const [darkMode, setDarkMode] = useState(false);
 
-  // Guardar la preferencia en localStorage para que persista
   useEffect(() => {
     const savedTheme = localStorage.getItem('theme');
     if (savedTheme === 'dark') setDarkMode(true);
