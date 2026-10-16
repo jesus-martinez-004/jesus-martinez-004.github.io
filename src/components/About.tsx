@@ -49,7 +49,7 @@ export default function About() {
               Tengo{' '}
               <strong className="text-[#E50914] font-semibold">{age} años</strong> y actualmente curso el{' '}
               <strong className="text-[#E50914] font-semibold">
-                4° cuatrimestre
+                7° cuatrimestre
               </strong>{' '}
               de Ingeniería en Software.
             </p>
